@@ -1,1 +1,1 @@
-print ("hi vro")
+print("hi vro")
