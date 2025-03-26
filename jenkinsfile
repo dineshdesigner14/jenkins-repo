@@ -5,6 +5,7 @@ pipeline {
             steps {
                 echo "hi"
                 echo "kd vro"
+                python test.py
             }
         }
         stage('Test') { 
